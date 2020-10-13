@@ -1,0 +1,9 @@
+If you would like to add your own scripts just make a PR!
+
+File naming:
+
+For manufacture-configs
+MANUFACTURE-MODELNAME-BOARDNAME.conf
+
+For user-configs:
+MANUFACTURE-BOARDNAME.conf
