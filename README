@@ -3,7 +3,11 @@ If you would like to add your own scripts just make a PR!
 File naming:
 
 For manufacture-configs
-MANUFACTURE-MODELNAME-BOARDNAME.conf
+MANUFACTURE-MODELNAME-BOARDNAME-FCSOFTWEAR-FCSOFTWEARVR.conf
+
 
 For user-configs:
-MANUFACTURE-BOARDNAME.conf
+MANUFACTURE-MODELNAME-BOARDNAME-CONFIGNAME-FCSOFTWEAR_FCSOFTWEARVR.conf
+
+CONFIGNAME can be anything you want that discribes your config.
+Keep it short and sweet.
